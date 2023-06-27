@@ -1,7 +1,9 @@
-# Lampada_DNC
+# 🚀 Lamp_DNC 🚀
 
-## Pude me aprofundar ainda mais na manipulação de eventos DOM e como as funções do JavaScript podem atuar na manipulação de uma página! <br>
-Caso toque na Lâmpada, ela quebra e não é mais possível ligar ou desligar a mesma! <br>
+## ⚙️ I used HTML for the page structure, CSS to maintain a style that I have been using in other projects, and JavaScript to switch the images according to the clicked buttons! ⚙️
 
-### Link da aplicação: <br>
-https://lampada-kaique-medeiros.netlify.app/
+### 📚 I was able to delve even deeper into DOM event manipulation and how JavaScript functions can manipulate a page! <br>
+If you click on the lamp, it will break and it will no longer be possible to turn it on or off! 📚 <br>
+
+### 🖥️ Application link: 🖥️ <br>
+https://lamp-kaique-medeiros.netlify.app/
